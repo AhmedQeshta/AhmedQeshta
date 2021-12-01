@@ -34,4 +34,5 @@ I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's de
 💕 ✨✨✨✨✨ You're here  ✨✨✨✨✨ 💕                                                                    
 Thank you for reading and giving me some of your precious time For any inquiries do not hesitate to contact me
                                                                                       ^_~
-
+                                                                                      
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedQeshta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
