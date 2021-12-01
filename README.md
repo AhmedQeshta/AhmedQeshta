@@ -1,9 +1,37 @@
-- 👋 Hi, I’m @AhmedQeshta
-- 👀 I’m interested in (Code)
-- 🌱 I’m currently learning (Full Stack, Web Developer)
+### Hi, I’m AhmedQeshta
+##### I’m Computer Engineer 👨🏻‍🎓 Web Developer 🚀 FullStack developer 🚀 BackEnd 🚀 PHP - Laravel 🚀 API 🚀 FrontEnd 🚀 Vuejs 
+
+------------------------------------------------------------------------------------------
+
+- 🌐 I’m currently working on ... Freelacer
+- 👀 I’m interested in ... Programing 🚀 Developing Web Site
+- 🌱 I’m currently learning (FullStack, Web Developer)
 
 
-<!---
-AhmedQeshta/AhmedQeshta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 🙏 About Me
+I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's degree in Computer Engineering. I work as a frontEnd and backEnd web developer (FullStack Web Developer).
+
+#### 👍 What tasks do I do?
+- 👉🏻 Website design, responsive to all devices (💻 | 📱 | 🖥).
+- 👉🏻 Landing page design.
+- 👉🏻 Convert designs (xd/Figma/image) into codes and web pages (HTML/CSS/JS).
+- 👉🏻 Building an online store that is responsive to all devices.
+- 👉🏻 Building a website as a front-end developer or back-end developer or both (Full-stack dev).
+
+#### 👑 I master and deal with programs
+- ✴ PhpStorm editor
+- ✴ VS Code editor
+- ✴ Adobe XD
+- ✴ Figma
+- ✴ Microsoft Office
+
+#### 📧 My Emails
+- 1️⃣ ahmedqeshta1999@gmail.com  
+- 2️⃣ ahmed.qeshta.dev@gmail.com 
+- 3️⃣ ahmedqeshta0592@gmail.com
+
+
+💕 ✨✨✨✨✨ You're here  ✨✨✨✨✨ 💕                                                                    
+Thank you for reading and giving me some of your precious time For any inquiries do not hesitate to contact me
+                                                                                      ^_~
+
