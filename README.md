@@ -1,4 +1,5 @@
-### Hi, I’m AhmedQeshta
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
+
 ##### I’m Computer Engineer 👨🏻‍🎓 Web Developer 🚀 FullStack developer 🚀 BackEnd 🚀 PHP - Laravel 🚀 API 🚀 FrontEnd 🚀 Vuejs 
 
 ------------------------------------------------------------------------------------------
@@ -58,9 +59,24 @@ I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's de
 - 3️⃣ ahmedqeshta0592@gmail.com
 
 
+<br />
+
+<h2 align="center">Quick Overview 📈</h2>
+  
+  <p align = "center">
+ 
+</p>
 
 <div align="center">
-   <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=AhmedQeshta&&show_icons=true&title_color=846a17&icon_color=9c9777&text_color=b09e33&bg_color=2c3138"/>
-   <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedQeshta&hide_title=true&langs_count=4&&show_icons=true&title_color=846a17&icon_color=9c9777&text_color=b09e33&bg_color=2c3138"/>
+   <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=AhmedQeshta&count_private=true&theme=dracula&hide_border=true" alt = "ahmedqesta's Rating"/>
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=AhmedQeshta&count_private=true&theme=dracula&hide_border=true" alt = "ahmedqesta's Rating" >
+
 </div>                                                                                    
 
+<p align = "center">
+
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=AhmedQeshta&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "AhmedQeshta's Languages/Frameworks"/>
+</p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
