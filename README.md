@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
-##### I’m Computer Engineer 👨🏻‍🎓 Web Developer 🚀 FullStack developer 🚀 BackEnd 🚀 PHP - Laravel 🚀 API 🚀 FrontEnd 🚀 Vuejs 
+##### I’m Computer Engineer 👨🏻‍🎓 Web Developer 🚀 FullStack developer 🚀 BackEnd 🚀 PHP - Laravel 🚀 API 🚀 FrontEnd 🚀 Reactjs 
 
 ------------------------------------------------------------------------------------------
 
-- 🌐 I’m currently working on ... Freelacer
+- 🌐 I’m currently working on ... Google For Startups
 - 👀 I’m interested in ... Programing 🚀 Developing Web Site
 - 🌱 I’m currently learning (FullStack, Web Developer)
 - 🔗 How to reach me ... [social media links](https://linktr.ee/ahmedqeshta)
