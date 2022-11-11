@@ -1,13 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
-##### I’m Computer Engineer 👨🏻‍🎓 Web Developer 🚀 FullStack developer 🚀 BackEnd 🚀 PHP - Laravel 🚀 API 🚀 FrontEnd 🚀 Reactjs 
+<div align="center">
+  <h4 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93++Computer+Engineer++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+;FullStack+Developer;Reactjs+Developer" alt="Typing SVG" /></a>
+  </h4>
+   <p align="center">
+     <a href="mailto:ahmedqeshta1999@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+        <a href="https://linktr.ee/ahmedqeshta">
+      <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+    </a>
+</p>
+  
+</div>
 
 ------------------------------------------------------------------------------------------
-
-- 🌐 I’m currently working on ... Google For Startups
-- 👀 I’m interested in ... Programing 🚀 Developing Web Site
-- 🌱 I’m currently learning (FullStack, Web Developer)
-- 🔗 How to reach me ... [social media links](https://linktr.ee/ahmedqeshta)
 
 ### 🙏 About Me
 I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's degree in Computer Engineering.Iam in a training At [Gaza Sky Geeks](https://github.com/gazaskygeeks) as a code Academy student. I work as a frontEnd and backEnd web developer (FullStack Web Developer).
@@ -16,25 +24,11 @@ I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's de
 ![living](https://img.shields.io/badge/living-Palestine-3c9)
 
 ### Languages and Tools:
-<div align="center">
-<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" title="HTML5" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" title="CSS3" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" title="Sass" alt="Sass" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
-<img align="left" title="JavaScript" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" title="php" alt="php" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" title="Laravel" alt="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/>
-<img align="left" title="Git" alt="Git" width="30px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" title="GitHub" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" title="Terminal" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" title="VueJS" alt="VueJS" width="30px" src="https://banner2.cleanpng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg"/>
-<img align="left" title="React" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" title="php" alt="php" width="30px" src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" />
-<img align="left" title="node" alt="node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" title="Figma" alt="Figma" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/220px-Figma-logo.svg.png" />
-
-</div>
-<br/><br/>
+<p align="center">
+  <a href="https://github.com/AhmedQeshta">
+    <img src="https://skillicons.dev/icons?perline=18&i=vscode,js,html,css,sass,ts,react,nextjs,styledcomponents,redux,jest,jquery,laravel,md,nestjs,nodejs,express,php,tailwind,bootstrap,codepen,d3,discord,figma,xd,firebase,bash,powershell,git,github,heroku,netlify,mongodb,mysql,postgres" />
+  </a>
+</p>
 
 ### 👍 What tasks do I do?
 - 👉🏻 Website design, responsive to all devices (💻 | 📱 | 🖥).
@@ -42,7 +36,6 @@ I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's de
 - 👉🏻 Convert designs (xd/Figma/image) into codes and web pages (HTML/CSS/JS).
 - 👉🏻 Building an online store that is responsive to all devices.
 - 👉🏻 Building a website as a front-end developer or back-end developer or both (Full-stack dev).
-
 
 
 ### 👑 I master and deal with programs
