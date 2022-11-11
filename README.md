@@ -17,11 +17,21 @@
 
 ------------------------------------------------------------------------------------------
 
-### 🙏 About Me
-I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's degree in Computer Engineering.Iam in a training At [Gaza Sky Geeks](https://github.com/gazaskygeeks) as a code Academy student. I work as a frontEnd and backEnd web developer (FullStack Web Developer).
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F7CE&center=true&vCenter=true&width=435&lines=%F0%9F%99%8F+About+Me+%F0%9F%99%8F" alt="Typing SVG" />
+</h3>
 
-![age](https://img.shields.io/badge/age-22-blue)
-![living](https://img.shields.io/badge/living-Palestine-3c9)
+<p align="center">
+I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's degree in Computer Engineering.Iam in a training At   <a href="https://github.com/gazaskygeeks"> Gaza Sky Geeks </a> as a code Academy student. I work as a frontEnd and backEnd web developer (FullStack Web Developer).
+</p>
+<p align="center">
+     <a href="#age">
+      <img src="https://img.shields.io/badge/age-23-blue" />
+    </a>
+        <a href="#living">
+      <img src="https://img.shields.io/badge/living-Palestine-3c9" />
+    </a>
+</p>
 
 ### Languages and Tools:
 <p align="center">
@@ -46,15 +56,12 @@ I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's de
 - ✴ Microsoft Office
 
 
-### 📧 My Emails
-- 1️⃣ ahmedqeshta1999@gmail.com  
-- 2️⃣ ahmed.qeshta.dev@gmail.com 
-- 3️⃣ ahmedqeshta0592@gmail.com
-
 
 <br />
 
-<h2 align="center">Quick Overview 📈</h2>
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F7CE&center=true&vCenter=true&width=435&lines=Quick+Overview+%F0%9F%93%88" alt="Typing SVG" />
+</h2>
   
   <p align = "center">
  
