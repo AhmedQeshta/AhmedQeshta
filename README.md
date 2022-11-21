@@ -69,6 +69,7 @@ I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's de
 
 <div align="center">
    <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=AhmedQeshta&count_private=true&theme=dracula&hide_border=true" alt = "ahmedqesta's Rating"/>
+  
    <img style="height:200px" src = "https://github-readme-stats.vercel.app/api/top-langs?username=AhmedQeshta&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "AhmedQeshta's Languages/Frameworks"/>
 </div>                                                                                    
 
