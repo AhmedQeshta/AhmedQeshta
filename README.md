@@ -22,8 +22,9 @@
 </h3>
 
 <p align="center">
-I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's degree in Computer Engineering.Iam in a training At   <a href="https://github.com/gazaskygeeks"> Gaza Sky Geeks </a> as a code Academy student. I work as a frontEnd and backEnd web developer (FullStack Web Developer).
+I'm a graduate 👨🏻‍🎓 of computer engineering and I got my B.Sc. I am a graduate student from  <a href="https://github.com/gazaskygeeks">Code Academy</a>. I work as a FrontEnd web developer.
 </p>
+
 <p align="center">
      <a href="#age">
       <img src="https://img.shields.io/badge/age-23-blue" />
