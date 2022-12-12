@@ -11,6 +11,10 @@
         <a href="https://linktr.ee/ahmedqeshta">
       <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
     </a>
+      <a href="https://ahmedqeshta.netlify.app/">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+
 </p>
   
 </div>
