@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Computer+Engineer++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;FullStack+Developer;ReactJs+Developer" alt="Typing SVG" />
   </h4>
    <p align="center">
-     <a href="mailto:ahmedqeshta1999@gmail.com" target="_blank">
+     <a href="mailto:ahmedqeshta1999@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-        <a href="https://linktr.ee/ahmedqeshta" target="_blank">
+        <a href="https://linktr.ee/ahmedqeshta" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
     </a>
-      <a href="https://ahmedqeshta.netlify.app/" target="_blank">
+      <a href="https://ahmedqeshta.netlify.app/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
 
