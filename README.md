@@ -11,7 +11,7 @@
         <a href="https://linktr.ee/ahmedqeshta" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
     </a>
-      <a href="https://ahmedqeshta.netlify.app/" target="_blank" rel="noopener noreferrer">
+      <a href="https://ahmedqeshta.vercel.app" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
 
