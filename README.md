@@ -42,6 +42,7 @@
    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AhmedQeshta/AhmedQeshta/blob/master/devcard.svg" width="400" alt="Ahmed Qeshta's Dev Card"/></a>
  </div>
 </div>
+
 ### Languages and Tools:
 <p align="center">
   <a href="https://github.com/AhmedQeshta">
