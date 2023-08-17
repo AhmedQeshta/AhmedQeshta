@@ -20,28 +20,24 @@
 </div>
 
 ------------------------------------------------------------------------------------------
-<div align="center">
-  <div align="left">
-  <h3 align="center">
+
+
+<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F7CE&center=true&vCenter=true&width=435&lines=%F0%9F%99%8F+About+Me+%F0%9F%99%8F" alt="Typing SVG" />
-  </h3>
+</h3>
   
-  <p align="center">
+<p align="center">
   I'm a graduate 👨🏻‍🎓 of computer engineering and I got my B.Sc. I am a graduate student from  <a href="https://github.com/gazaskygeeks">Code Academy</a>. I work as a FrontEnd web developer.
-  </p>
-  <p align="center">
+</p>
+<p align="center">
        <a href="#age">
         <img src="https://img.shields.io/badge/age-23-blue" />
       </a>
           <a href="#living">
         <img src="https://img.shields.io/badge/living-Palestine-3c9" />
       </a>
-  </p>
- </div>
- <div align="right">
-   <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AhmedQeshta/AhmedQeshta/blob/master/devcard.svg" width="400" alt="Ahmed Qeshta's Dev Card"/></a>
- </div>
-</div>
+</p>
+
 
 ### Languages and Tools:
 <p align="center">
@@ -50,13 +46,19 @@
   </a>
 </p>
 
-### 👍 What tasks do I do?
-- 👉🏻 Website design, responsive to all devices (💻 | 📱 | 🖥).
-- 👉🏻 Landing page design.
-- 👉🏻 Convert designs (xd/Figma/image) into codes and web pages (HTML/CSS/JS).
-- 👉🏻 Building an online store that is responsive to all devices.
-- 👉🏻 Building a website as a front-end developer or back-end developer or both (Full-stack dev).
+<br /><br />
 
+### 👍 What tasks do I do?
+<div align="left">
+  <a href="https://app.daily.dev/DailyDevTips"><img  width="256" align="right" src="https://github.com/AhmedQeshta/AhmedQeshta/blob/master/devcard.svg" alt="Ahmed Qeshta's Dev Card"/></a>
+</div>
+
+- 👉🏻 Website design, responsive to all devices (💻 | 📱 | 🖥).
+- 👉🏻 Use React.js and Next.js to translate designs (from xd/Figma/image) into codes and web pages.
+- 👉🏻 As a front-end developer, back-end developer, or both (full-stack developer), you're creating a website.
+- 👉🏻 Improve the site's presentation on browsers in terms of speed and performance.
+
+<br />
 
 ### 👑 I master and deal with programs
 - ✴ PhpStorm editor
@@ -79,14 +81,11 @@
 
 <div align="center">
    <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=AhmedQeshta&count_private=true&theme=dracula&hide_border=true" alt = "ahmedqesta's Rating"/>
-  
    <img style="height:200px" src = "https://github-readme-stats.vercel.app/api/top-langs?username=AhmedQeshta&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "AhmedQeshta's Languages/Frameworks"/>
-   <a href="https://app.daily.dev/Ahmed_Qeshta"><img src="https://api.daily.dev/devcards/44d42f0254914a57a374084059c6981a.png?r=eza" width="400" alt="Ahmed Qeshta's Dev Card"/></a>
 </div>                                                                                    
 
 <p align = "center">
  <img style="height:200px" src = "https://github-readme-streak-stats.herokuapp.com?user=AhmedQeshta&count_private=true&theme=dracula&hide_border=true" alt = "ahmedqesta's Rating" >
-  
 </p>
 
 
