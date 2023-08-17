@@ -20,24 +20,28 @@
 </div>
 
 ------------------------------------------------------------------------------------------
-
-<h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F7CE&center=true&vCenter=true&width=435&lines=%F0%9F%99%8F+About+Me+%F0%9F%99%8F" alt="Typing SVG" />
-</h3>
-
-<p align="center">
-I'm a graduate 👨🏻‍🎓 of computer engineering and I got my B.Sc. I am a graduate student from  <a href="https://github.com/gazaskygeeks">Code Academy</a>. I work as a FrontEnd web developer.
-</p>
-
-<p align="center">
-     <a href="#age">
-      <img src="https://img.shields.io/badge/age-23-blue" />
-    </a>
-        <a href="#living">
-      <img src="https://img.shields.io/badge/living-Palestine-3c9" />
-    </a>
-</p>
-
+<div align="center">
+  <div align="left">
+  <h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F7CE&center=true&vCenter=true&width=435&lines=%F0%9F%99%8F+About+Me+%F0%9F%99%8F" alt="Typing SVG" />
+  </h3>
+  
+  <p align="center">
+  I'm a graduate 👨🏻‍🎓 of computer engineering and I got my B.Sc. I am a graduate student from  <a href="https://github.com/gazaskygeeks">Code Academy</a>. I work as a FrontEnd web developer.
+  </p>
+  <p align="center">
+       <a href="#age">
+        <img src="https://img.shields.io/badge/age-23-blue" />
+      </a>
+          <a href="#living">
+        <img src="https://img.shields.io/badge/living-Palestine-3c9" />
+      </a>
+  </p>
+ </div>
+ <div align="right">
+   <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AhmedQeshta/AhmedQeshta/blob/master/devcard.svg" width="400" alt="Ahmed Qeshta's Dev Card"/></a>
+ </div>
+</div>
 ### Languages and Tools:
 <p align="center">
   <a href="https://github.com/AhmedQeshta">
@@ -76,6 +80,7 @@ I'm a graduate 👨🏻‍🎓 of computer engineering and I got my B.Sc. I am a
    <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=AhmedQeshta&count_private=true&theme=dracula&hide_border=true" alt = "ahmedqesta's Rating"/>
   
    <img style="height:200px" src = "https://github-readme-stats.vercel.app/api/top-langs?username=AhmedQeshta&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "AhmedQeshta's Languages/Frameworks"/>
+   <a href="https://app.daily.dev/Ahmed_Qeshta"><img src="https://api.daily.dev/devcards/44d42f0254914a57a374084059c6981a.png?r=eza" width="400" alt="Ahmed Qeshta's Dev Card"/></a>
 </div>                                                                                    
 
 <p align = "center">
