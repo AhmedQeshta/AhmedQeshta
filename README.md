@@ -42,7 +42,7 @@
 ### Languages and Tools:
 <p align="center">
   <a href="https://github.com/AhmedQeshta">
-    <img src="https://skillicons.dev/icons?perline=18&i=vscode,js,html,css,sass,ts,react,nextjs,styledcomponents,redux,jest,jquery,laravel,md,nestjs,nodejs,express,php,tailwind,bootstrap,codepen,d3,discord,figma,xd,firebase,bash,powershell,git,github,heroku,netlify,mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?perline=18&i=vscode,js,html,css,sass,ts,react,nextjs,styledcomponents,redux,jest,jquery,laravel,md,nestjs,nodejs,express,php,tailwind,bootstrap,codepen,d3,discord,figma,xd,firebase,supabase,bash,powershell,git,github,heroku,netlify,vercel,mongodb,mysql,postgres,prisma" />
   </a>
 </p>
 
